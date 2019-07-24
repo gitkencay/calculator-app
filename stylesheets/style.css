@@ -1,0 +1,32 @@
+:root {
+	--arvo-font: 'Arvo', serif;;
+}
+
+#displayinput{
+    background-color: #000000;
+    color: #ffffff;
+}
+
+input {
+    width: 130px;
+    height: 75px;
+    font-size: 60px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: #bebebe;
+    color: #000000;
+    border-style: none;
+    font-family:  var(--arvo-font);
+}
+
+input:hover{
+    background-color: #000000;
+    color: #ffffff;
+}
+
+
+#myform{
+    margin-left: 350px;
+    margin-top: 20px;
+}
+
